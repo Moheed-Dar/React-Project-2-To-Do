@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.toh1{
+  font-size: 40px;
+  margin-top: 40px;
+  color:white;
+  font-family: cursive;
+
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+
+#li1{
+  background-color:rgb(158, 126, 91);
+  color:white;
+  font-size: 20px;
+  font-family: gill sans;
+  text-shadow: 1px 1px 10px black;
+}
+#li1:hover{
+  background-color:rgb(90, 137, 59);
+  color:white;
+  font-size: 20px;
+  font-family: gill sans;
+}
+#input1:hover{
+  box-shadow: 1px 1px  20px  white;
+}
+#button1:hover{
+  box-shadow: 1px 1px  30px  rgb(220, 88, 88);
+  border-radius: 10px;
+}
+.card {
+  padding: 2em;
+}
+
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/07/03/22/books-2599241_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
